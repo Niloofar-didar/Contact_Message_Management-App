@@ -1,4 +1,4 @@
-# Clone this app If you want to learn REST API, MONGO DB, SpringBoot, and JAVA
+# Clone this Repo if you want to learn REST API, MONGO DB, SpringBoot,and JAVA.
 
 ![app_image.png](images/app_image.png)
 
