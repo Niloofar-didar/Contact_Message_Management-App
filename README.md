@@ -1,3 +1,7 @@
+# Clone this app If you want to learn REST API, MONGO DB, SpringBoot, and JAVA
+
+![app_image.png](images/app_image.png)
+
 # Getting Started
 
 ### About the APP and How to RUN it
@@ -43,14 +47,14 @@ Command to run the server:
 Below are screenshots of postman for some of the API calls with the response:
 
 View all contacts:
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 
 Add contact:
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
 Search Contact:
-![img_3.png](img_3.png)
+![img_3.png](images/img_3.png)
 
 I have provided the collection of APIs for your convenience in the **Postman_API_collection** folder. you need to import it to the postman to use.
 If you don't have Mongo on your system, only change Spring.profile.active to inmem in the application.properties file to have the apis tested easily. OTherwise, to use MongoDB, you need to have it installed and then run the mongo server using the command that was explained earlier.
